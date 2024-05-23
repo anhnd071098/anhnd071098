@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Đức Anh
-- 👀 I’m interested in  Java, Spring, Jsp , Ajax, Jquery, thymeleaf, mysql...
+- 👀 I’m interested in  Java, Springboot, Spring security, Jsp , Ajax, Jquery, thymeleaf, mysql, mariadb, oracle...
 - 📫 How to reach me : https://www.facebook.com/anhnd0710/
 - Zalo : 0846553886
 - Facebook : https://www.facebook.com/anhnd0710/
